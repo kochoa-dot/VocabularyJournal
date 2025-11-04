@@ -1,0 +1,6 @@
+@VocabularyJournal_HostAddress = http://localhost:5100
+
+GET {{VocabularyJournal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
